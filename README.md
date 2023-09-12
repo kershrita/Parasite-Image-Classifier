@@ -6,6 +6,8 @@ This repository contains a (CNN) deep learning model for classifying medical ima
 
 The model is trained to classify images into the following parasite species:
 
+<center>
+
 | Label     | Description                                      |
 |-----------|--------------------------------------------------|
 | 0         | Ascariasis                                       |
@@ -23,3 +25,5 @@ The model is trained to classify images into the following parasite species:
 | 12        | Trichophyton rubrum (T. rubrum)                 |
 | 13        | Taenia spp                                      |
 | 14        | Trichuris trichiura                            |
+
+</center>
