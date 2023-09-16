@@ -1,4 +1,4 @@
-# Parasite Species Classifier
+# Parasite Image Classifier
 
 This repository contains a (CNN) deep learning model for classifying medical images of parasites into various species. The model is trained to recognize and differentiate between different parasite species commonly found in medical and biological imaging data.
 
