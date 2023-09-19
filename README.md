@@ -1,6 +1,8 @@
 # Parasite Image Classifier
 
-This repository contains a (CNN) deep learning model for classifying medical images of parasites into various species. The model is trained to recognize and differentiate between different parasite species commonly found in medical and biological imaging data.
+This repository contains a (CNN) deep learning model for classifying medical images of parasites into various species. The model is trained to recognize and differentiate between different parasite species commonly found in medical and biological imaging data. This task for a kaggle comptetion hosted on this [link](https://www.kaggle.com/competitions/ieee-mansb-victoris-2-final-competition). Our team name is **Champion Team**, find our rank!!!
+
+![Parasite Samples](images/Parasite Samples)
 
 ## Dataset Labels
 
