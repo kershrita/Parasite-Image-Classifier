@@ -1,0 +1,9 @@
+path: /home/kersh/Downloads/task_parasite_detector_test-2023_11_15_22_41_37-yolo 1.1/data
+
+train: images/train
+val: images/train
+
+names:
+  0: Ascariasis
+  1: Babesia
+
