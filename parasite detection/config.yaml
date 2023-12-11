@@ -1,9 +1,15 @@
-path: /home/kersh/Downloads/task_parasite_detector_test-2023_11_15_22_41_37-yolo 1.1/data
+path: /content/gdrive/MyDrive/Parasite-Detection/data
 
 train: images/train
-val: images/train
+val: images/val
 
 names:
   0: Ascariasis
-  1: Babesia
+  1: Capillaria p
+  2: Enterobius v
+  3: Fasciolopsis buski
+  4: Hookworm egg
+  5: Hymenolepis diminuta
+  6: Taenia spp
+  7: Trichuris trichiura
 
