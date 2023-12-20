@@ -2,12 +2,15 @@
 
 This repository contains a (CNN) deep learning model for classifying medical images of parasites into various species. The model is trained to recognize and differentiate between different parasite species commonly found in medical and biological imaging data. This task for a kaggle comptetion hosted on this [link](https://www.kaggle.com/competitions/ieee-mansb-victoris-2-final-competition). Our team name is **Champion Team**, find our rank!!!
 
-Check our deployment in hugging face [here](https://huggingface.co/spaces/kershrita/parasite-classifier-resnet50v2).
+Check our deployment in hugging face [here](https://huggingface.co/spaces/kershrita/parasite-classifier-resnet50v2) [old].
 
 ![Parasite Samples](images/Custom%20CNN/Custom%20CNN%20-%20Samples.jpg)
 
-
 ## Dataset Labels
+
+Dataset sources:
+1. [IEEE DataPort](https://ieee-dataport.org/competitions/parasitic-egg-detection-and-classification-microscopic-images)
+2. [Kaggle](https://www.kaggle.com/datasets/redrik278/parasite-dataset)
 
 The model is trained to classify images into the following parasite species:
 
